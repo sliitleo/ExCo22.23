@@ -8,13 +8,13 @@ Your one-stop portal to all things regarding Leo Club of SLIIT 🦁💖🔥
 - [Tailwind CSS](#how-to-contribute)
 - [MongoDB](#i-really-want-to-contribute-but-where-do-i-start)
 
+## Contributors
 
+<a href="https://github.com/sliitleo/ExCo22.23/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sliitleo/ExCo22.23" />
+</a>
 
 ![banner-whitebg-spacing-10px(2)](https://cdn.discordapp.com/attachments/938131839661539339/984930372531925102/Candidate.png)
-
-<!-- Add system architecture -->
-
-
 
 ## [How to contribute](#how-to)
 
@@ -46,8 +46,4 @@ git commit -m "<initial commit>"
 - [React course by freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/#react)
 - [Learn React by Scrimba](https://scrimba.com/learn/learnreact)
 
-## Contributors
 
-<a href="https://github.com/sliitleo/ExCo22.23/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sliitleo/ExCo22.23" />
-</a>
