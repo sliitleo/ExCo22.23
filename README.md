@@ -1,1 +1,53 @@
-# ExCo22.23
+# ExCo 22.23
+
+Your one-stop portal to all things regarding Leo Club of SLIIT🌀  
+
+## Quick Links
+
+- [Tech Stack](#tech-stack)
+- [How to contribute](#how-to-contribute)
+- [Learning Resources](#i-really-want-to-contribute-but-where-do-i-start)
+
+## [Tech Stack](#Tech-Stack)
+
+![banner-whitebg-spacing-10px(2)](https://user-images.githubusercontent.com/73905901/126197938-6f1301fb-623f-4d0a-8bce-5b268722da1c.png)
+
+<!-- Add system architecture -->
+
+
+
+## [How to contribute](#how-to)
+
+1. Fork the repo on GitHub.
+
+2. Clone the project to your own machine.
+
+```git clone https://github.com/<YOUR_USERNAME>/minihackathon-v2.git```
+
+3. Create a branch using the git checkout command.
+
+`git checkout -b <your-new-branch-name>`
+
+4. Stage your changes and commit with a meaningful commit message.
+
+``` 
+git add .
+git commit -m "<initial commit>" 
+```
+
+5. Push your work back up to your fork.
+
+`git push origin <add-your-branch-name>`
+
+6. Submit a Pull request so that we can review your changes. [Learn about creating a pull request.](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+**React.js**
+
+- [React course by freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/#react)
+- [Learn React by Scrimba](https://scrimba.com/learn/learnreact)
+
+## Contributors
+
+<a href="https://github.com/sliitleo/ExCo22.23/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sliitleo/ExCo22.23" />
+</a>
