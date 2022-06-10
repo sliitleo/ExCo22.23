@@ -4,9 +4,9 @@ Your one-stop portal to all things regarding Leo Club of SLIIT🌀
 
 ## Quick Links
 
-- [Tech Stack](#tech-stack)
-- [How to contribute](#how-to-contribute)
-- [Learning Resources](#i-really-want-to-contribute-but-where-do-i-start)
+- [React JS](#tech-stack)
+- [Tailwind CSS](#how-to-contribute)
+- [Mingo DB](#i-really-want-to-contribute-but-where-do-i-start)
 
 ## [Tech Stack](#Tech-Stack)
 
