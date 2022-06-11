@@ -22,7 +22,7 @@ function Admin() {
         </div>
 
 
-      <div className='bg-gray-100  rounded-xl p-5'>
+      <div className='bg-gray-100 shadow-inner rounded-xl p-5'>
 
       <form>
 
@@ -43,27 +43,61 @@ function Admin() {
       </form>
 
 
-      <div className='space-x-3 mt-10'>
-      <button className='bg-green-600  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
-        Start
-      </button>
-    
-      <button className='bg-blue-600  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
-       Join Now
-      </button>
+      <div className=''>
+        
+        
 
-      <button className='bg-yellow-500  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
-       Wait Mode
-      </button>
+        <br />
 
-      <button className='bg-red-700  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
-       End
-      </button>
+        <div className='relative  space-x-3 mb-5 bg-white w-72 rounded-xl pt-5 pb-5 shadow-lg ml-auto mr-auto'>
+          <h1 className='absolute inset-x-0 -top-2 w-48 ml-auto mr-auto rounded-2xl text-xs pt-1  font-sans  bg-white '>
+            Candidate Status
+          </h1>
 
+
+          <button className='bg-blue-600  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
+            Join Now
+          </button>
+
+          <button className='bg-yellow-500  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
+            Wait Mode
+          </button>
+
+
+        </div>
+
+
+
+        
+
+       
    
       </div>
       </div>
 
+      <div>
+        <div className='mt-5 bg-gray-200 pt-5 pb-0.5 rounded-3xl'>
+          
+        <div className='relative  space-x-3 mb-5 bg-white w-72 rounded-xl pt-5 pb-5 shadow-lg ml-auto mr-auto'>
+          <h1 className='absolute inset-x-0 -top-2 w-48 ml-auto mr-auto rounded-2xl text-xs pt-1  font-sans  bg-white '>
+            Meeting Status
+          </h1>
+
+
+
+          <button className='bg-green-600  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
+            Start
+          </button>
+
+          <button className='bg-red-500  font-sans rounded-xl px-4 py-0.5 text-white hover:bg-blue-700 duration-300 ' type='submit'>
+           End
+          </button>
+
+
+
+        </div>
+        </div>
+      </div>
           
     </div>
     <br />

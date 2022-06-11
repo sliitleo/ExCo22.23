@@ -8,6 +8,8 @@ import Ready from './pages/ready';
 import Wait from './pages/wait';
 
 
+
+
 function App() {
   return (
     <div className="App">
@@ -23,11 +25,11 @@ function App() {
                 <div className='grid lg:grid-cols-2 gap-10 max-w-5xl items-center overflow-y-hidden  overflow-x-hidden'>
                   <Name />
 
-                  <div className='hidden'>
+                  <div className=''>
                     <Ready />  
                   </div>
 
-                  <div className=''>
+                  <div className='hidden'>
                     <Wait />
                   </div>
 
