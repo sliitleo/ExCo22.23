@@ -2,12 +2,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Admin from './admin';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className='hidden'>
+      <App />
+    </div>
+    <div className=''>
+    <Admin />
+    </div>
+
+    
   </React.StrictMode>
 );
 

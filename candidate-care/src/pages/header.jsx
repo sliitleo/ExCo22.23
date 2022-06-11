@@ -2,11 +2,11 @@ function Header() {
     return <div>
  
         <header className="py-5 px-5">
-                <div className="flex gap-2 items-center">
+                <div className="flex gap-2 items-center font-sans">
                     <img className="w-10" src="https://cdn.discordapp.com/attachments/938131839661539339/973611175168327740/Favi.png" alt=""></img>
 
-                    <div className="text-gray-700">
-                        <h1 className="text-xl font-bold">Leo Club of SLIIT</h1>
+                    <div className="text-gray-700 text-left">
+                        <h1 className="text-xl font-bold ">Leo Club of SLIIT</h1>
                         <h1 className="text-gray-600 text-xs font-bold -translate-y-1.5">Lions Clubs Internantional, District 306 C1</h1>
                     </div>
 

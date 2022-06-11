@@ -14,7 +14,7 @@ function App() {
     
       <Header />
     
-      <div className="flex h[85vh] items-center justify-center">
+      <div className="flex items-center justify-center">
         <div className="">
           <div>
             <Hey />
@@ -23,12 +23,12 @@ function App() {
                 <div className='grid lg:grid-cols-2 gap-10 max-w-5xl items-center overflow-y-hidden  overflow-x-hidden'>
                   <Name />
 
-                  <div>
-                  <Ready />  
+                  <div className='hidden'>
+                    <Ready />  
                   </div>
 
-                  <div className='hidden'>
-                  <Wait />
+                  <div className=''>
+                    <Wait />
                   </div>
 
                 </div>
