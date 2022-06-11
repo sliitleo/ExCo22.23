@@ -3,7 +3,7 @@
 Your one-stop portal to all things regarding Leo Club of SLIIT 🦁💖🔥
 
 
-  <img src="https://contrib.rocks/image?repo=sliitleo/ExCo22.23" />
+  <img src="https://contrib.rocks/image?repo=sliitleo%2FExco22.23" />
 </a>
 
 ## Quick Links
