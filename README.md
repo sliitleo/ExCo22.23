@@ -3,10 +3,7 @@
 Your one-stop portal to all things regarding Leo Club of SLIIT 🦁💖🔥
 
 
-  <img src="https://contrib.rocks/image?repo=sliitleo%2FExco22.23" />
-</a>
-
-## Quick Links
+## Made with
 
 - [React Js](#tech-stack)
 - [Tailwind CSS](#how-to-contribute)
@@ -17,6 +14,7 @@ Your one-stop portal to all things regarding Leo Club of SLIIT 🦁💖🔥
 ## Contributors
 
 <a href="https://github.com/sliitleo/ExCo22.23/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sliitleo%2FExco22.23" />
 
 
 
